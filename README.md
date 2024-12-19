@@ -81,7 +81,8 @@ With Devtron Platform, you can accelerate your application delivery lifecycle by
 To get started, check out the Devtron Docs and specifically the Installation section of the Getting Started with Litmus page.
 
 ## To Start developing with Devtron
-
+- Architecture of devtron
+![Devtron flowchart - Full Mode flowchart](https://github.com/user-attachments/assets/f4985553-0b3e-4061-aef5-26c2b6f6ae3b)
 
 ## Contributing to Devtron
 
