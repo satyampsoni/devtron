@@ -86,7 +86,10 @@ To get started, check out the Devtron Docs and specifically the Installation sec
 
 ## Contributing to Devtron
 
+
 We warmly welcome contributions to Devtron and invite you to explore our Contributing Guidelines to get started. These guidelines cover everything from opening issues and following coding standards to understanding our development processes. Whether you’re fixing a bug, adding a feature, or creating content like blogs or videos about Devtron, your contributions make a significant impact. Don’t forget to share your creations with the community by adding them to our contributions list. Thank you for helping us make Devtron even better! 🚀 For more please refer to `contributing.md`
+
+The reason Ocean is open source is that we aim for the Port integration library to offer numerous useful out-of-the-box integrations. We have confidence that developers and DevOps professionals who rely on Port in their everyday work will be inclined to contribute and assist in making it a comprehensive tool.
 
 Note: At this time, we will not be accepting contributions that only fix spelling, naming or grammatical errors in documentation, code, comments or elsewhere, from accounts created in the last 365 days. We appreciate your interest in contributing to Vitess, and we encourage you to contribute in other ways.
 
