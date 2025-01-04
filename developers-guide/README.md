@@ -38,7 +38,7 @@ This document provides instructions for setting up a development environment to 
     kubectl -n devtroncd port-forward svc/devtron-nats 4222:4222 
     kubectl -n devtroncd port-forward svc/postgresql-postgresql 5432:5432
     # Optional
-    kubectl -n devtroncd-ent-5 port-forward svc/argocd-dex-server-ent-5 5556:5556
+    kubectl -n devtroncd port-forward svc/argocd-dex-server-ent-5 5556:5556
     ```
 
 5. Use this command to extract the password of PostgreSQL (Required to put in ENV):
